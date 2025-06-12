@@ -58,7 +58,7 @@ Rank	272 / 791 participants
 📁 Files
 notebook.ipynb – main training + submission notebook
 
-submission.csv – final test predictions
+submission.csv – final test predictions based on my 79% score this dataset is not the actual y_test values given in the competition
 
 train.csv / test.csv – input data (not included, assumed provided)
 
