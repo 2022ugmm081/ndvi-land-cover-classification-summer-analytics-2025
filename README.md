@@ -2,6 +2,7 @@
 NDVI-based land cover classification using logistic regression for Summer Analytics 2025. Handled noisy satellite time-series data with imputation, scaling, and feature engineering. Achieved 79.09% accuracy, ranked 474/1395.
 
 NDVI Land Cover Classification – Summer Analytics 2025 Hackathon
+https://www.kaggle.com/code/mauryavishal0/summer-analytics-iit-guwahati
 
 This project solves a real-world satellite image classification problem using NDVI (Normalized Difference Vegetation Index) time-series data. The task was part of the Summer Analytics 2025 hackathon organized by IIT Guwahati in collaboration with GeeksforGeeks.
 
