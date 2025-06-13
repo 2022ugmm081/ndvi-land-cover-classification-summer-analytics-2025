@@ -1,5 +1,5 @@
 # ndvi-land-cover-classification-summer-analytics-2025
-NDVI-based land cover classification using logistic regression for Summer Analytics 2025. Handled noisy satellite time-series data with imputation, scaling, and feature engineering. Achieved 79.09% accuracy, ranked 272/791.
+NDVI-based land cover classification using logistic regression for Summer Analytics 2025. Handled noisy satellite time-series data with imputation, scaling, and feature engineering. Achieved 79.09% accuracy, ranked 474/1395.
 
 NDVI Land Cover Classification – Summer Analytics 2025 Hackathon
 
@@ -28,7 +28,7 @@ Key Highlights:
 
 📊 Engineered statistical and temporal features to improve classification
 
-🏆 Achieved 79.09% accuracy and ranked 272 out of 791 participants
+🏆 Achieved 79.09% accuracy and ranked 474 out of 1395 participants
 
 Technologies Used:
 Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, Jupyter Notebook
